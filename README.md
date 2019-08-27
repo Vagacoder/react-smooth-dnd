@@ -1,3 +1,7 @@
+### original repository is here: https://github.com/kutlugsahin/react-smooth-dnd
+### the react-trello (https://github.com/rcdexta/react-trello) is also based on this model
+2019/8/27
+========================
 # react-smooth-dnd
 
 A fast and lightweight drag&drop, sortable library for React with many configuration options covering many d&d scenarios. It uses css transitions for animations so it's hardware accelerated whenever possible.
